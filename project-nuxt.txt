@@ -1,0 +1,5 @@
+Project Install:
+** npx nuxi@latest init project_nuxt
+** cd project_nuxt
+** npm run dev
+----------------------------------------------
