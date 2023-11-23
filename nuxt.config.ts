@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   
   app: {
     head: {
-      title: 'Sass Connect Software Firm',
+      title: 'Sass Connect',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }

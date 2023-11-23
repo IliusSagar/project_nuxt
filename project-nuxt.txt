@@ -3,3 +3,12 @@ Project Install:
 ** cd project_nuxt
 ** npm run dev
 ----------------------------------------------
+Bootstrap Navbar Setup::
+** nuxt.config.ts**
+---------------------------------------------
+Routes Link Setup::
+** app.vue**
+** pages/index.vue**
+** pages/add-expense.vue**
+** pages/manage-expense.vue**
+-----------------------------------------------
